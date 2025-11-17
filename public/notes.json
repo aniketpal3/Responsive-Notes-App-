@@ -1,0 +1,44 @@
+[
+  {
+    "id": "n1",
+    "title": "Project Kickoff",
+    "description": "Finalize requirements, define scope, and assign initial tasks for the new sprint.",
+    "category": "Work",
+    "createdAt": "2025-10-01T09:30:00Z"
+  },
+  {
+    "id": "n2",
+    "title": "Workout Routine",
+    "description": "Push day: chest, shoulders, triceps. 45 minutes session.",
+    "category": "Personal",
+    "createdAt": "2025-10-03T07:10:00Z"
+  },
+  {
+    "id": "n3",
+    "title": "UI Design Idea",
+    "description": "Minimal dashboard layout with sidebar, search bar, and responsive card grid.",
+    "category": "Ideas",
+    "createdAt": "2025-10-05T16:45:00Z"
+  },
+  {
+    "id": "n4",
+    "title": "Team Retro",
+    "description": "Discuss blockers, wins, and improvements for the next sprint cycle.",
+    "category": "Work",
+    "createdAt": "2025-10-09T12:00:00Z"
+  },
+  {
+    "id": "n5",
+    "title": "Books to Read",
+    "description": "Start ‘Deep Work’, finish ‘Atomic Habits’, and plan next reading list.",
+    "category": "Personal",
+    "createdAt": "2025-10-10T18:30:00Z"
+  },
+  {
+    "id": "n6",
+    "title": "App Feature Draft",
+    "description": "Add dark mode, pin notes, and improve category filtering.",
+    "category": "Ideas",
+    "createdAt": "2025-10-12T10:20:00Z"
+  }
+]
